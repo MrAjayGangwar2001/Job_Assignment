@@ -80,7 +80,7 @@ https://air-quality-api.open-meteo.com/v1/air-quality
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/weather-dashboard.git
+git clone https://github.com/MrAjayGangwar2001/weather-dashboard.git
 
 # Navigate to project folder
 cd weather-dashboard
